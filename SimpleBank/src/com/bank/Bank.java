@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 public class Bank {
+	static int opcions = 0;
 	static final int EXIT = 5;
     static ArrayList<User> users = new ArrayList<>();
     private static Scanner input = new Scanner(System.in);
@@ -40,11 +41,13 @@ public class Bank {
             createUser();
         break;
         case 2:
+        	opcions = 2;
             System.out.println("Realizar transaccion");
             System.out.println("------------------------------------");
              moneyMakeTransaction(); 
         break;
         case 3:
+        	opcions = 3;
             System.out.println("Retirar dinero");
             System.out.println("------------------------------------");
              moneyWithdrawal();
