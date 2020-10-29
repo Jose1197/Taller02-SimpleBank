@@ -1,3 +1,8 @@
-Realizar Transaccion Thu Oct 29 11:59:26 COT 2020 
+Realizar Transaccion Thu Oct 29 12:54:06 COT 2020 
 
-Retirar Dinero Thu Oct 29 11:59:50 COT 2020 
+Realizar Transaccion Thu Oct 29 12:56:32 COT 2020 
+
+Retirar Dinero Thu Oct 29 12:57:00 COT 2020 
+Realizar Transaccion Thu Oct 29 13:03:13 COT 2020 
+
+Retirar Dinero Thu Oct 29 13:03:28 COT 2020 
